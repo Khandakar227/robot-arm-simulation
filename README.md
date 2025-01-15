@@ -1,7 +1,7 @@
 # Introduction
 This project contains an example of simulating robot arm in RViz2 with a keyboard in ROS2.
 
-<img src="doc/demo.gif" width="250">
+<img src="doc/demo.gif" width="500">
 
 ## How to
 1. The project has two folder. `edo_sim` contains the urdf file of the e.Do robot arm. it was downloaded from this [repo](https://github.com/Comau/eDO_description) and converted for ROS2.
